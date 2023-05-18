@@ -1,0 +1,2 @@
+# TegaBot
+Bot do Discord
